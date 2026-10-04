@@ -9,7 +9,7 @@
 
 E-commerce interactivo desarrollado con React. Esta iteración transforma el catálogo estático en un sistema dinámico con carga de datos asíncrona, gestión de estados complejos y renderizado condicional avanzado.
 
-- **Sitio publicado:** 
+- **Sitio publicado: [Ingresar al sitio](https://sebastiangis.github.io/S8_JUEGOS_SFZ/)** 
 - **Autor:** SDFZ
 
 ---
