@@ -1,0 +1,97 @@
+{
+  "tienda": "Tienda de videojuegos",
+  "actualizado": "2026-10-02",
+  "fuente": "Catalogo de juegos",
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Gravity Rush 2",
+      "genero": "Aventura",
+      "precio": 25990,
+      "oferta": 15000,
+      "imagen": "img/gravity-rush-2.jpg",
+      "alt": "Portada",
+      "descripcion": "Aventura con un frenético sistema de movimiento."
+    },
+    {
+      "id": 2,
+      "nombre": "Call Of Duty Black Ops 7",
+      "genero": "Acción",
+      "precio": 55990,
+      "oferta": 35990,
+      "imagen": "img/cod7.jpg",
+      "alt": "Portada",
+      "descripcion": "La última entrega de la saga de disparos."
+    },
+    {
+      "id": 3,
+      "nombre": "Expedition 33",
+      "genero": "RPG",
+      "precio": 39990,
+      "oferta": 27990,
+      "imagen": "img/e33.jpg",
+      "alt": "Portada",
+      "descripcion": "Aventura RPG con un novedoso sistema de combate."
+    },
+    {
+      "id": 4,
+      "nombre": "FC27",
+      "genero": "Deportes",
+      "precio": 55990,
+      "oferta": 45990,
+      "imagen": "img/fc27.jpg",
+      "alt": "Portada",
+      "descripcion": "La nueva entrega de la saga de fútbol, ahora con mundo abierto."
+    },
+    {
+      "id": 5,
+      "nombre": "God Of War: Ragnarok",
+      "genero": "Aventura",
+      "precio": 34990,
+      "oferta": 29990,
+      "imagen": "img/gowragnarok.jpg",
+      "alt": "Portada",
+      "descripcion": "Únete a Kratos y Atreus para explorar los míticos nueve reinos ."
+    },
+    {
+      "id": 6,
+      "nombre": "Minecraft Dungeons II",
+      "genero": "RPG",
+      "precio": 40990,
+      "oferta": 29990,
+      "imagen": "img/mcdungeons2.jpg",
+      "alt": "Portada",
+      "descripcion": "El nuevo juego de rol de acción inspirado en el mundo de Minecraft."
+    },
+    {
+      "id": 7,
+      "nombre": "Metroid Prime 4: Beyond",
+      "genero": "Acción",
+      "precio": 60990,
+      "oferta": 55990,
+      "imagen": "img/metroidnsw2chico.jpg",
+      "alt": "Portada",
+      "descripcion": "Vuelve Samus Aran en esta nueva entrega de la saga Metroid."
+    },
+    {
+      "id": 8,
+      "nombre": "Super Mario Odyssey",
+      "genero": "Aventura",
+      "precio": 24990,
+      "oferta": 17490,
+      "imagen": "img/super-mario-odyssey.jpg",
+      "alt": "Portada",
+      "descripcion": "La nueva aventura de Mario con su nuevo y fiel compañero Cappy."
+    },
+    {
+      "id": 9,
+      "nombre": "Cyberpunk: 2077",
+      "genero": "RPG",
+      "precio": 39990,
+      "oferta": 33990,
+      "imagen": "img/cyberpunk.jpg",
+      "alt": "Portada",
+      "descripcion": "Un RPG de mundo abierto ambientado en un futuro distópico."
+    }
+  ]
+}
