@@ -111,5 +111,3 @@ La interfaz se adapta dinámicamente a 8 situaciones distintas basándose en el 
 Para garantizar que las rutas de imágenes y del archivo JSON funcionen correctamente al desplegar en un subdirectorio de GitHub Pages, se implementó el uso de `import.meta.env.BASE_URL` en las utilidades de ruteo (`utils/formato.js`). Esto evita errores 404 al intentar acceder a los recursos de la carpeta `/public` en producción.
 
 ---
-
-*Proyecto desarrollado con fines académicos. Las portadas y logotipos (SVG) son recursos propios creados para esta interfaz.*
